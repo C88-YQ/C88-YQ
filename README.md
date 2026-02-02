@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-🚀
-
 ![GitHub Space Shooter](game.gif)
 
 <!--
