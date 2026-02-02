@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 🚀
+
+![GitHub Space Shooter](game.gif)
+
 <!--
 **C88-YQ/C88-YQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
