@@ -1,6 +1,9 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
-![GitHub Stats](stats.svg)
+<p align="center">
+  <img src="stats.svg"/>
+</p>
+
 ![GitHub Space Shooter](game.gif)
 
 <!--
