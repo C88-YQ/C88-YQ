@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![GitHub Stats](stats.svg)
 ![GitHub Space Shooter](game.gif)
 
 <!--
